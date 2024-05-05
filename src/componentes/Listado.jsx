@@ -33,9 +33,9 @@ export default function Listado({ data, setData, dataFilter, setDataFilter }) {
         <thead>
           <tr>
             <th>Nombre</th>
+            <th>Correo</th>
             <th>Edad</th>
             <th>Cargo</th>
-            <th>Correo</th>
             <th>Telefono</th>
           </tr>
         </thead>
