@@ -37,6 +37,6 @@ export const BaseColaboradores = [
     correo: "fernando.gonzalez.031897@gmail.com",
     edad: "28",
     cargo: "Desarrollador Fullstack",
-    telefono: "9992188840",
+    telefono: "992188840",
   },
 ];

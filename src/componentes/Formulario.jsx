@@ -10,9 +10,9 @@ export default function Formulario({
 }) {
   const [datosColaborador, setDatosColaborador] = useState({
     nombre: "",
+    correo: "",
     edad: "",
     cargo: "",
-    correo: "",
     telefono: "",
   });
 
