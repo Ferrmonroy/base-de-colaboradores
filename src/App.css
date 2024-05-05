@@ -3,6 +3,19 @@
   height: 100vh;
 }
 
+body {
+  background: #1c1820;
+}
+
+.container {
+  background: white;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  height: auto;
+  border: 10px solid #1c1820;
+  outline: 1px solid white;
+}
+
 .buscador,
 .table-responsive,
 .formulario,
@@ -24,12 +37,12 @@ input {
 }
 
 button {
-  background-color: #6610f2 !important;
+  background-color: #4842c1 !important;
   color: #fff !important;
 }
 
 button:hover {
-  background-color: #6f42c1 !important;
+  background-color: #4842c1 !important;
   transition: background-color 0.3s;
 }
 
